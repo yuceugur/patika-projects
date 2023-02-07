@@ -1,5 +1,4 @@
-# PROJECT 2
-# MERGE SORT 
+# PROJECT 2 -- MERGE SORT 
 
 ## List: [16,21,11,8,12,22]
 
